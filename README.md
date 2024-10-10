@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : ROSHINI S
-Register Number : 212223240142
+Developed by : ROSHINI S  
+Register Number : 212223240142  
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ~~~
